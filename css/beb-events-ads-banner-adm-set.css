@@ -1,0 +1,91 @@
+@media screen and (min-width: 300px) and (max-width: 500px) {
+
+}
+
+@media screen and (min-width: 500px) {
+	.beb-eab-contenitore-admin.beb-eab-imp-colori .fmt-eab-riga-sx {
+		margin: 0 15px 0 0;
+	}
+}
+
+/* ------------------------------- IMPOSTAZIONI GENERALI ---------------------------------------- */
+
+.beb-eab-contenitore-admin div {
+    width: auto;
+}
+
+/* ------------------------------- IMPOSTAZIONI COLORI ------------------------------------------ */
+.beb-eab-contenitore-admin.beb-eab-imp-colori .fmt-eab-riga-sx {
+    float: none;
+}
+
+.beb-eab-contenitore-admin input {
+	width: 60px;
+}
+
+.beb-eab-contenitore-admin input[type="radio"] {
+	margin: 0 0 0 10px;
+	width: auto;
+}
+/*
+.beb-eab-contenitore-admin input[type="radio"]:not(:first-child) {
+	margin-left: 10px;
+}
+*/
+.beb-eab-contenitore-admin .beb-eab-add-banner-colore {
+	border: 1px solid #000000;
+	float: none;
+    height: 30px;
+    padding: 0;
+    width: 70px;
+}
+
+/* ------------------------------- IMPOSTAZIONI FORMATTAZIONE ------------------------------------------ */
+.fmt-eab-riga > p {
+    margin: 0;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-formattazione .fmt-eab-col-sx {
+	width: auto;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-formattazione .fmt-eab-col-sx input {
+	width: 60px;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-formattazione .fmt-eab-col-dx {
+	
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-formattazione .fmt-eab-col-dx input {
+	margin: 0;
+}
+
+body div.beb-eab-contenitore-admin:last-child {
+    margin-bottom: 3%;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-reset {
+	background-color: #e6cccc;
+	border: 1px solid #cc0000;
+	margin-bottom: 200px;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-reset h1 {
+	color: #cc0000;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-reset input#submit {
+	background: #cc0000 none repeat scroll 0 0;
+    border-color: #990000;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-reset input#submit:hover {
+	background: #e60000 none repeat scroll 0 0;
+    border-color: #cc0000;
+}
+
+
+
+
+

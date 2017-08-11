@@ -1,0 +1,109 @@
+#beb-eab-contenitore-banner {
+    bottom: 60px;
+    height: 150px;
+    position: fixed;
+    width: auto;
+    z-index: 99999;
+}
+
+#beb-eab-contenitore-banner div {
+    float: left;
+    position: relative;
+}
+
+#beb-eab-contenitore-banner .beb-eab-spazio-banner {
+    float: right;
+	padding: 15px 0;
+    right: 0;
+    z-index: 90;
+}
+
+#beb-eab-banner-data {
+    width: 63px;
+	height: 100%;
+}
+
+#beb-eab-banner-data h1,
+#beb-eab-banner-data h2 {
+	border-right: 1px solid #ffffff;
+	margin: 0;
+	width: 100%;
+}
+
+#beb-eab-banner-data h2 {
+	border-bottom: 1px solid #ffffff;
+	padding-bottom: 10px;
+}
+
+#beb-eab-banner-immagine {
+    height: 120px;
+    margin: 0 10px;
+}
+
+#beb-eab-banner-immagine img {
+	height: 120px;
+}
+
+#beb-eab-banner-cont-testo {
+	height: 120px;
+    padding: 0 15px;
+    width: 350px;
+}
+
+#beb-eab-banner-testo {
+	height: calc(100% - 20px);
+	width: 100%;
+}
+
+#beb-eab-banner-testo h1,
+#beb-eab-banner-testo h2,
+#beb-eab-banner-testo p {
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+    word-break: break-all;
+}
+
+#beb-eab-banner-cont-prenota {
+	height: 20px;
+	width: 100%;
+}
+
+#beb-eab-banner-cont-prenota h2 {
+	float: left;
+	font-size: 14px;
+	width: 45%;
+}
+
+#beb-eab-banner-cont-prenota h2 a {
+	text-decoration: none;
+	z-index: 300;
+}
+
+#beb-eab-banner-cont-prenota-sx,
+#beb-eab-banner-cont-prenota-dx {
+	padding: 0 2%;
+	width: 46%;
+}
+
+#beb-eab-banner-cont-prenota-sx a,
+#beb-eab-banner-cont-prenota-dx a {
+	line-height: 20px;
+	text-decoration: none;
+}
+
+.beb-eab-spazio-banner2 {
+    opacity: 0.85;
+    right: -48px;
+}
+
+.beb-eab-banner-freccia {
+    height: 48px;
+    left: 0;
+    top: 51px;
+    width: 48px;
+}
+
+#beb-eab-banner-bottone {
+	cursor: pointer;
+}

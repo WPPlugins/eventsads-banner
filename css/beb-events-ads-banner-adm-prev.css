@@ -1,0 +1,153 @@
+@media screen and (min-width: 300px) and (max-width: 500px) {
+	.beb-eab-contenitore-admin.beb-eab-preview .fmt-eab-riga:first-child {
+		margin-bottom: 50px;
+	}
+}
+
+
+
+.beb-eab-contenitore-admin.beb-eab-preview > div {
+	width: 100%;
+}
+
+.beb-eab-contenitore-admin.beb-eab-preview h1 {
+	text-align: center;
+}
+
+.beb-eab-contenitore-admin.beb-eab-preview .fmt-eab-riga:first-child {
+	padding: 0 0 30px;
+	width: 100%;
+}
+
+.beb-eab-contenitore-admin.beb-eab-preview form div.fmt-eab-riga:nth-child(2) div {
+	margin-bottom: 40px;
+}
+
+.beb-eab-contenitore-admin.beb-eab-preview .fmt-eab-riga:last-child {
+	margin: 30px 0 0;
+	width: 100%;
+}
+
+.beb-eab-contenitore-admin.beb-eab-preview .fmt-eab-riga-sx {
+	float: left;
+}
+
+.beb-eab-contenitore-admin.beb-eab-preview .fmt-eab-riga-dx {
+	float: right;
+}
+
+.beb-eab-contenitore-admin.beb-eab-preview .fmt-eab-riga,
+.beb-eab-contenitore-admin.beb-eab-preview #beb-eab-contenitore-banner,
+.beb-eab-contenitore-admin.beb-eab-preview .fmt-eab-riga-c h1,
+.beb-eab-proprieta-banner p,
+#beb-eab-banner-testo {
+	margin: 0;
+}
+/*
+.beb-eab-contenitore-admin.beb-eab-preview .fmt-eab-riga-c {
+	height: 45px;
+    line-height: 50px;
+    margin: 0;
+    text-align: center;
+}
+*/
+#beb-eab-contenitore-banner {
+	bottom: 0;
+    float: right;
+    margin-top: 8%;
+    position: relative;
+}
+
+#beb-eab-banner-riass-form .eab-interruttore-banner {
+	margin: 0;
+	padding: 0;
+	width: 90px;
+}
+
+.beb-eab-proprieta-banner h1,
+.beb-eab-proprieta-banner h2,
+.beb-eab-proprieta-banner h3 {
+	color: #000000;
+}
+
+.beb-eab-proprieta-banner .beb-eab-add-banner-sugg {
+	margin: 0 0 15px;
+}
+
+#beb-eab-banner-count-down {
+	float: right !important;
+    font-size: 80px;
+    font-weight: bold;
+    height: 100px;
+    line-height: 96px;
+    margin-right: 30px;
+    margin-top: 64px;
+    width: 100px;
+}
+
+#beb-eab-stato-banner {
+	cursor:pointer;
+	height: 55px;
+	width: 90px;
+}
+
+.eab-interruttore-banner #submit {
+	background-color: unset;
+	border: medium none;
+	box-shadow: none;
+	height: 45px;
+	padding: 0;
+	width: 84px;
+}
+
+#beb-eab-banner-popup-body {
+	background-color: black;
+    height: 100%;
+    left: 0;
+    opacity: 0.7;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9998;
+}
+
+#beb-eab-banner-popup-contenitore {
+	background-color: white;
+    border: 1px solid black;
+    height: 23%;
+    left: 34%;
+    padding: 3%;
+    position: fixed;
+    top: 30%;
+    width: 32%;
+    z-index: 9999;
+}
+
+#beb-eab-banner-popup-annulla {
+    margin: 11% 22% 0 28%;
+}
+
+#beb-eab-banner-operazioni #beb-eab-banner-remove {
+	margin-left: 15px;
+}
+
+#beb-eab-banner-operazioni #beb-eab-banner-remove, #beb-eab-banner-operazioni #beb-eab-banner-edit {
+	cursor: pointer;
+	float: left;
+    height: 30px;
+	position: relative;
+	width: 30px;
+}
+
+#beb-eab-banner-operazioni #beb-eab-banner-edit a {
+	height: 30px;
+	width: 30px;
+}
+
+#beb-eab-banner-operazioni input[type="submit"] {
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	height: 30px;
+    width: 30px;
+}

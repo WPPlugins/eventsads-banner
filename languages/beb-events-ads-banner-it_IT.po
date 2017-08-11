@@ -1,0 +1,1150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: beb-events-ads-banner\n"
+"POT-Creation-Date: 2015-10-13 10:19+0200\n"
+"PO-Revision-Date: 2015-10-13 10:20+0200\n"
+"Last-Translator: Fabio <fabio.pubbl@hotmail.com>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e;translate\n"
+"X-Poedit-SearchPath-0: beb-events-ads-banner.php\n"
+"X-Poedit-SearchPath-1: class-beb-events-ads-banner-adm.php\n"
+"X-Poedit-SearchPath-2: class-beb-events-ads-banner-op-com.php\n"
+"X-Poedit-SearchPath-3: class-beb-events-ads-banner-view.php\n"
+
+#: class-beb-events-ads-banner-adm.php:116
+msgid "Create New Banner"
+msgstr "Creare Nuovo Banner"
+
+#: class-beb-events-ads-banner-adm.php:117
+msgid "Add Banner"
+msgstr "Aggiungi Banner"
+
+#: class-beb-events-ads-banner-adm.php:124
+msgid "Set the Banner"
+msgstr "Imposta il Banner"
+
+#: class-beb-events-ads-banner-adm.php:125
+msgid "Banner Settings"
+msgstr "Impostazioni Banner"
+
+#: class-beb-events-ads-banner-adm.php:132
+msgid "Issues partial solved"
+msgstr "Problemi risolti parzialmente"
+
+#: class-beb-events-ads-banner-adm.php:133
+msgid "Banner Issues"
+msgstr "Problemi Banner"
+
+#: class-beb-events-ads-banner-adm.php:238
+msgid ""
+"You have installed WPML, to run the banner in multilingual mode you need to "
+"install \"String-Translation\""
+msgstr ""
+"Hai installato WPML, per far funzionare il banner in modalità multilingua, "
+"hai bisogno di installare \"String-Translation\""
+
+#: class-beb-events-ads-banner-adm.php:244
+msgid "Create first banner"
+msgstr "Crea il primo banner"
+
+#: class-beb-events-ads-banner-adm.php:251
+msgid "Event Name: "
+msgstr "Nome Evento:"
+
+#: class-beb-events-ads-banner-adm.php:280
+#: class-beb-events-ads-banner-adm.php:501
+msgid "Open the Banner"
+msgstr "Apri il banner"
+
+#: class-beb-events-ads-banner-adm.php:283
+#: class-beb-events-ads-banner-adm.php:507
+msgid "Open only in Home Page"
+msgstr "Apri solo nella Home Page"
+
+#: class-beb-events-ads-banner-adm.php:286
+#: class-beb-events-ads-banner-adm.php:512
+msgid "Open in all site"
+msgstr "Apri in tutto il sito"
+
+#: class-beb-events-ads-banner-adm.php:289
+#: class-beb-events-ads-banner-adm.php:517
+msgid "Never open"
+msgstr "Non aprire mai"
+
+#: class-beb-events-ads-banner-adm.php:294
+#: class-beb-events-ads-banner-adm.php:521
+msgid "(Open the banner only in the home page, or in all site, or never)"
+msgstr "(Apri il banner solo nella Home Page, in tutto il sito, o mai)"
+
+#: class-beb-events-ads-banner-adm.php:298
+#: class-beb-events-ads-banner-adm.php:682
+msgid "Show Image in Closed Mode"
+msgstr "Mostra l'immagine quando il banner è chiuso"
+
+#: class-beb-events-ads-banner-adm.php:301
+#: class-beb-events-ads-banner-adm.php:685
+msgid "Show"
+msgstr "Mostra"
+
+#: class-beb-events-ads-banner-adm.php:304
+#: class-beb-events-ads-banner-adm.php:688
+msgid "Hide"
+msgstr "Nascondi"
+
+#: class-beb-events-ads-banner-adm.php:307
+#: class-beb-events-ads-banner-adm.php:691
+msgid "(When the banner is closed you prefer show the image?)"
+msgstr "(Quando il banner è chiuso preferisci far vedere l'immagine?)"
+
+#: class-beb-events-ads-banner-adm.php:318
+#: class-beb-events-ads-banner-adm.php:696
+#: class-beb-events-ads-banner-adm.php:916
+#: class-beb-events-ads-banner-adm.php:1078
+#: class-beb-events-ads-banner-adm.php:1212
+msgid "Save"
+msgstr "Salva"
+
+#: class-beb-events-ads-banner-adm.php:347
+msgid "Cancel"
+msgstr "Cancella"
+
+#: class-beb-events-ads-banner-adm.php:348
+#: class-beb-events-ads-banner-adm.php:1198
+msgid "Yes"
+msgstr "Si"
+
+#: class-beb-events-ads-banner-adm.php:366
+#: class-beb-events-ads-banner-adm.php:383
+#: class-beb-events-ads-banner-adm.php:422
+msgid "Insert Banner's Name here."
+msgstr "Inserisci il nome del Banner qui"
+
+#: class-beb-events-ads-banner-adm.php:372
+msgid "CHANGE"
+msgstr "Cambia"
+
+#: class-beb-events-ads-banner-adm.php:386
+#: class-beb-events-ads-banner-adm.php:427
+msgid "Insert Title here"
+msgstr "Inserire il Titolo qui"
+
+#: class-beb-events-ads-banner-adm.php:389
+#: class-beb-events-ads-banner-adm.php:428
+msgid "Insert Subtitle here"
+msgstr "Inserire il Sottotitolo qui"
+
+#: class-beb-events-ads-banner-adm.php:397
+#: class-beb-events-ads-banner-adm.php:431
+msgid "Insert left title link here"
+msgstr "Inserie il Titolo del link Sinistro qui"
+
+#: class-beb-events-ads-banner-adm.php:401
+#: class-beb-events-ads-banner-adm.php:408
+#: class-beb-events-ads-banner-adm.php:432
+#: class-beb-events-ads-banner-adm.php:435
+msgid "http://www.yourlink.link"
+msgstr "http://www.yourlink.link"
+
+#: class-beb-events-ads-banner-adm.php:404
+#: class-beb-events-ads-banner-adm.php:434
+msgid "Insert right title link here"
+msgstr "Inserire il Titolo del link Destro qui"
+
+#: class-beb-events-ads-banner-adm.php:411
+#: class-beb-events-ads-banner-adm.php:437
+msgid "Insert Image link here"
+msgstr "Inserire il link dell'immagine qui"
+
+#: class-beb-events-ads-banner-adm.php:418
+msgid "INSERT NEW EVENT"
+msgstr "INSERISCI NUOVO EVENTO"
+
+#: class-beb-events-ads-banner-adm.php:420
+msgid "unfortunately for now you can only create one banner"
+msgstr ""
+"sfortunatamente per il momento è possibile creare un solo banner per volta"
+
+#: class-beb-events-ads-banner-adm.php:476
+msgid "Options"
+msgstr "Opzioni"
+
+#: class-beb-events-ads-banner-adm.php:487
+msgid "Banner ID Name"
+msgstr "Nome ID del Banner"
+
+#: class-beb-events-ads-banner-adm.php:494
+msgid "Required - Unique Key ID"
+msgstr "Obbligatorio - Chiave univoca ID"
+
+#: class-beb-events-ads-banner-adm.php:494
+msgid " - Max "
+msgstr "- Max"
+
+#: class-beb-events-ads-banner-adm.php:495
+#: class-beb-events-ads-banner-adm.php:582
+#: class-beb-events-ads-banner-adm.php:590
+#: class-beb-events-ads-banner-adm.php:600
+#: class-beb-events-ads-banner-adm.php:630
+#: class-beb-events-ads-banner-adm.php:656
+msgid " characters)"
+msgstr "caratteri)"
+
+#: class-beb-events-ads-banner-adm.php:527
+msgid "Texts"
+msgstr "Testi"
+
+#: class-beb-events-ads-banner-adm.php:530
+msgid "Date"
+msgstr "Data"
+
+#: class-beb-events-ads-banner-adm.php:571
+msgid "(<strong>Optional</strong> - The date that appears in the Banner)"
+msgstr "(<strong>Opzionale</strong> - La data che appare nel Banner)"
+
+#: class-beb-events-ads-banner-adm.php:577
+msgid "Title"
+msgstr "Titolo"
+
+#: class-beb-events-ads-banner-adm.php:581
+msgid "Required</strong> - Max "
+msgstr "Obbligatorio</strong> - Max"
+
+#: class-beb-events-ads-banner-adm.php:586
+msgid "Subtitle"
+msgstr "Sottotitolo"
+
+#: class-beb-events-ads-banner-adm.php:590
+#: class-beb-events-ads-banner-adm.php:599
+#: class-beb-events-ads-banner-adm.php:629
+msgid "(<strong>Optional</strong> - Max "
+msgstr "(<strong>Opzionale</strong> - Max"
+
+#: class-beb-events-ads-banner-adm.php:595
+msgid "Description"
+msgstr "Descrizione"
+
+#: class-beb-events-ads-banner-adm.php:597
+msgid "Enter the Event's description here"
+msgstr "Inserire la descrizione dell'evento qui"
+
+#: class-beb-events-ads-banner-adm.php:606
+msgid "Links"
+msgstr "Links"
+
+#: class-beb-events-ads-banner-adm.php:609
+msgid "All Banner is a link ?"
+msgstr "Tutto il Banner è un link ?"
+
+#: class-beb-events-ads-banner-adm.php:617
+msgid "(<strong>Optional</strong> - If checked all banner will be linkable)"
+msgstr ""
+"(<strong>Opzionale</strong> - Se spuntato tutto il Banner diventerà un link)"
+
+#: class-beb-events-ads-banner-adm.php:623
+msgid "Left link Title"
+msgstr "Titolo del link sinistro"
+
+#: class-beb-events-ads-banner-adm.php:636
+msgid "Left link URL"
+msgstr "Link Sinistra URL"
+
+#: class-beb-events-ads-banner-adm.php:643
+#: class-beb-events-ads-banner-adm.php:669
+msgid "(<strong>Optional</strong>)"
+msgstr "(<strong>Opzionale</strong>)"
+
+#: class-beb-events-ads-banner-adm.php:649
+msgid "Right link Title"
+msgstr "Titolo del link Destro"
+
+#: class-beb-events-ads-banner-adm.php:655
+msgid "(<strong>Optional</strong> - This will be the right link title - Max "
+msgstr "(<strong>Opzionale</strong> - Titolo del link destro - Max"
+
+#: class-beb-events-ads-banner-adm.php:662
+msgid "Right link URL"
+msgstr "Link Destro URL"
+
+#: class-beb-events-ads-banner-adm.php:676
+msgid "Media"
+msgstr "Media"
+
+#: class-beb-events-ads-banner-adm.php:677
+msgid "Image"
+msgstr "Immagine"
+
+#: class-beb-events-ads-banner-adm.php:680
+msgid "Optional - Max Height 120px"
+msgstr "Opzionale - Altezza Max 120px"
+
+#: class-beb-events-ads-banner-adm.php:703
+msgid "Pro Version"
+msgstr "Versione Pro"
+
+#: class-beb-events-ads-banner-adm.php:704
+msgid ""
+"In the Pro Version is possible to enable this feature and create multiple "
+"banners"
+msgstr ""
+"Nella Versione Pro è possibile abilitare queste funionalità e creare più "
+"banner"
+
+#: class-beb-events-ads-banner-adm.php:707
+msgid "Video:"
+msgstr "Video:"
+
+#: class-beb-events-ads-banner-adm.php:710
+msgid "Drop here"
+msgstr "Trascina qui"
+
+#: class-beb-events-ads-banner-adm.php:713
+msgid "(<strong>Optional</strong> - Insert a video)"
+msgstr "(<strong>Opzionale</strong> - Inserire un video)"
+
+#: class-beb-events-ads-banner-adm.php:718
+msgid "Display it on the:"
+msgstr "Visualizza il:"
+
+#: class-beb-events-ads-banner-adm.php:724
+msgid "(<strong>Optional</strong> - When publishing the Banner)"
+msgstr "(<strong>Opzionale</strong> - Quando pubblicare il Banner)"
+
+#: class-beb-events-ads-banner-adm.php:729
+msgid "Remove it on the:"
+msgstr "Rimuovi il:"
+
+#: class-beb-events-ads-banner-adm.php:735
+msgid "(<strong>Optional</strong> - When remove the Banner)"
+msgstr "(<strong>Opzionale</strong> - Quando rimuovere il Banner)"
+
+#: class-beb-events-ads-banner-adm.php:740
+msgid "Refresh:"
+msgstr "Refresh:"
+
+#: class-beb-events-ads-banner-adm.php:746
+msgid "(Banner refreshing Time  - in seconds)"
+msgstr " \t(Tempo tra un Banner e l'altro) "
+
+#: class-beb-events-ads-banner-adm.php:771
+#: class-beb-events-ads-banner-adm.php:1134
+msgid "Index"
+msgstr "Indice"
+
+#: class-beb-events-ads-banner-adm.php:773
+#: class-beb-events-ads-banner-adm.php:784
+msgid "Banner colors"
+msgstr "Colori del Banner"
+
+#: class-beb-events-ads-banner-adm.php:774
+#: class-beb-events-ads-banner-adm.php:924
+msgid "Formatting Text and Paragraph"
+msgstr "Formattazione Testo e Paragrafo"
+
+#: class-beb-events-ads-banner-adm.php:775
+#: class-beb-events-ads-banner-adm.php:1086
+msgid "Reset all settings"
+msgstr "Resetta tutte le impostazioni"
+
+#: class-beb-events-ads-banner-adm.php:777
+msgid "Shape and position of the banner"
+msgstr "Forma e posizione del Banner"
+
+#: class-beb-events-ads-banner-adm.php:799
+msgid "Opacity:"
+msgstr "Opacità:"
+
+#: class-beb-events-ads-banner-adm.php:809
+msgid "Date color (day):"
+msgstr "Colore data (giorno):"
+
+#: class-beb-events-ads-banner-adm.php:819
+msgid "Date color (month):"
+msgstr "Colore Data (mese):"
+
+#: class-beb-events-ads-banner-adm.php:829
+msgid "Title color:"
+msgstr "Colore titolo:"
+
+#: class-beb-events-ads-banner-adm.php:839
+msgid "Subtitle color:"
+msgstr "Colore sottotitolo:"
+
+#: class-beb-events-ads-banner-adm.php:849
+msgid "Content color:"
+msgstr "Colore contenuto:"
+
+#: class-beb-events-ads-banner-adm.php:859
+#: class-beb-events-ads-banner-adm.php:1035
+msgid "Left link:"
+msgstr "Link di sinistra:"
+
+#: class-beb-events-ads-banner-adm.php:869
+#: class-beb-events-ads-banner-adm.php:1056
+msgid "Right link:"
+msgstr "Link di destra:"
+
+#: class-beb-events-ads-banner-adm.php:880
+msgid "Colors:"
+msgstr "Colori:"
+
+#: class-beb-events-ads-banner-adm.php:895
+msgid "Background color 1:"
+msgstr "Colore sfondo 1:"
+
+#: class-beb-events-ads-banner-adm.php:905
+msgid "Background color 2:"
+msgstr "Colore sfondo 2:"
+
+#: class-beb-events-ads-banner-adm.php:926
+msgid "Event Date - Day: "
+msgstr "Data dell'evento - Giorno: "
+
+#: class-beb-events-ads-banner-adm.php:935
+#: class-beb-events-ads-banner-adm.php:956
+#: class-beb-events-ads-banner-adm.php:977
+#: class-beb-events-ads-banner-adm.php:998
+#: class-beb-events-ads-banner-adm.php:1019
+#: class-beb-events-ads-banner-adm.php:1044
+#: class-beb-events-ads-banner-adm.php:1065
+msgid "left"
+msgstr "sinistra"
+
+#: class-beb-events-ads-banner-adm.php:939
+#: class-beb-events-ads-banner-adm.php:960
+#: class-beb-events-ads-banner-adm.php:981
+#: class-beb-events-ads-banner-adm.php:1002
+#: class-beb-events-ads-banner-adm.php:1023
+#: class-beb-events-ads-banner-adm.php:1048
+#: class-beb-events-ads-banner-adm.php:1069
+msgid "center"
+msgstr "centro"
+
+#: class-beb-events-ads-banner-adm.php:943
+#: class-beb-events-ads-banner-adm.php:964
+#: class-beb-events-ads-banner-adm.php:985
+#: class-beb-events-ads-banner-adm.php:1006
+#: class-beb-events-ads-banner-adm.php:1027
+#: class-beb-events-ads-banner-adm.php:1052
+#: class-beb-events-ads-banner-adm.php:1073
+msgid "right"
+msgstr "destra"
+
+#: class-beb-events-ads-banner-adm.php:947
+msgid "Event Date - Month: "
+msgstr "Data dell'evento - Mese: "
+
+#: class-beb-events-ads-banner-adm.php:968
+msgid "Title:"
+msgstr "Titolo:"
+
+#: class-beb-events-ads-banner-adm.php:989
+msgid "Subtitle:"
+msgstr "Sottotitolo:"
+
+#: class-beb-events-ads-banner-adm.php:1010
+msgid "Description:"
+msgstr "Descrizione:"
+
+#: class-beb-events-ads-banner-adm.php:1031
+msgid "justify"
+msgstr "giustificato"
+
+#: class-beb-events-ads-banner-adm.php:1090
+msgid ""
+"By clicking on the button below will restore the factory settings losing "
+"custom ones. Are you sure you want to continue?"
+msgstr ""
+"Cliccando sul bottone sottostante verranno resettate tutte le impostazioni, "
+"perdendo le preferenze salvate. Sicuro di voler continuare ?"
+
+#: class-beb-events-ads-banner-adm.php:1097
+msgid "Yes, I'm sure, reset !"
+msgstr "Sì, sono sicuro, resetta !"
+
+#: class-beb-events-ads-banner-adm.php:1122
+msgid "Troubleshooting"
+msgstr "Soluzioni"
+
+#: class-beb-events-ads-banner-adm.php:1123
+msgid ""
+"(All the text has been translated with google translator, I apologize for my "
+"English)"
+msgstr ""
+"(Il testo è stato tradotto con Google Traduttore, mi scuso per l'inglese)"
+
+#: class-beb-events-ads-banner-adm.php:1127
+msgid ""
+"This page has been created temporarily for those problems whose definitive "
+"solution has not been found yet. I apologize for the inconvenience, I know "
+"that solutions are inelegant, but in this period I'm very busy."
+msgstr ""
+"Questa pagina è stata creata temporaneamente per quei problemi la cui "
+"soluzione definitiva non è stata ancora trovata. Chiedo scusa per il "
+"disagio, so che sono soluzioni poco eleganti, ma in questo periodo sono "
+"molto impegnato."
+
+#: class-beb-events-ads-banner-adm.php:1131
+msgid "I will try to resolve them as soon as possible."
+msgstr "Cercherò di risolverle il prima possibile."
+
+#: class-beb-events-ads-banner-adm.php:1137
+#: class-beb-events-ads-banner-adm.php:1144
+msgid "Compatibility issues with \"All in one Event Calendar\""
+msgstr "Problemi di compatibilità con \"All in one Events Calendar\""
+
+#: class-beb-events-ads-banner-adm.php:1147
+msgid "Error:"
+msgstr "Errore:"
+
+#: class-beb-events-ads-banner-adm.php:1151
+msgid ""
+"When my plugin is active, the setting page of \"All in one event calendar\" "
+"don't display settings option."
+msgstr ""
+"Quando il mio plugin è attivo, nella pagina setting di \"All in one event "
+"calendar\" non vengono visualizzate le impostazioni."
+
+#: class-beb-events-ads-banner-adm.php:1157
+msgid "Check:"
+msgstr "Indagine:"
+
+#: class-beb-events-ads-banner-adm.php:1160
+msgid ""
+"I looked for the source of this incompatibility and I came to the following "
+"conclusion:"
+msgstr ""
+"Ho cercato la fonte di questa incompatibilità e sono arrivato alla seguente "
+"conclusione:"
+
+#: class-beb-events-ads-banner-adm.php:1163
+msgid ""
+"They not affected the functionality of \"all in one calendar events\", is "
+"only closed on display"
+msgstr ""
+"Non sono compromesse le funzionalità di \"all in one events calendar\", "
+"viene solo chiusa la visualizzazione"
+
+#: class-beb-events-ads-banner-adm.php:1165
+msgid "Not due to css files"
+msgstr "Non è dovuta ai files .css"
+
+#: class-beb-events-ads-banner-adm.php:1166
+msgid "Not due to js files"
+msgstr "Non è dovuta ai files .js"
+
+#: class-beb-events-ads-banner-adm.php:1167
+msgid ""
+"The problem is that the preview of the banner is loaded regardless of which "
+"page you are"
+msgstr ""
+"Il problema sta nel fatto che l'anteprima del banner viene caricata a "
+"prescindere da quale pagina ci si trova"
+
+#: class-beb-events-ads-banner-adm.php:1169
+msgid ""
+"Initially this solution I had adopted in order to show the banner in action "
+"in the subject, even if logged."
+msgstr ""
+"Inizialmente questa soluzione l'avevo adottata per poter mostrare il banner "
+"in azione nel tema, anche se loggati."
+
+#: class-beb-events-ads-banner-adm.php:1177
+msgid "Partial solution:"
+msgstr "Soluzione parziale"
+
+#: class-beb-events-ads-banner-adm.php:1180
+msgid ""
+"By checking the box below you disability previewing the banner throughout "
+"the site except in the pages of the plugin."
+msgstr ""
+"Spuntando la casella qui sotto si disabilità la visualizzazione "
+"dell'anteprima del banner in tutto il sito tranne che nelle pagine del "
+"plugin."
+
+#: class-beb-events-ads-banner-adm.php:1183
+msgid "Pros"
+msgstr "Pro"
+
+#: class-beb-events-ads-banner-adm.php:1184
+msgid ""
+"In this way \"All in one calendar events\" we see and work, and also my."
+msgstr ""
+"In questo modo \"All in one events calendar\" si vede e funziona, ed anche "
+"il mio."
+
+#: class-beb-events-ads-banner-adm.php:1186
+msgid "Cons"
+msgstr "Contro"
+
+#: class-beb-events-ads-banner-adm.php:1187
+msgid ""
+"If logged in you can not see in the banner theme (but it works, simply not "
+"loaded to avoid conflicts)."
+msgstr ""
+"Se loggati non è possibile vedere nel tema il banner (che però funziona, "
+"semplicemente non viene caricato per evitare conflitti)."
+
+#: class-beb-events-ads-banner-adm.php:1189
+msgid "Fix the Problem:"
+msgstr "Correggi il Problema:"
+
+#: class-beb-events-ads-banner-adm.php:1195
+msgid ""
+"Off the display of banners from the rest of the site when logged in (theme) "
+"and show it only in plugin's pages ?"
+msgstr ""
+"Disattivare la visualizzazione del banner dal resto del sito quando loggato "
+"(tema) e lasciarla solo nelle pagine del plugin ?"
+
+#: class-beb-events-ads-banner-adm.php:1203
+msgid "No"
+msgstr "No"
+
+#: class-beb-events-ads-banner-adm.php:1253
+msgid "\"Title\" and \"Banner ID Name\" can not be empty, please retry."
+msgstr ""
+"\"Titolo\" e \"Nome ID del Banner\" non possono essere vuoti, per favore "
+"riprovare."
+
+#: class-beb-events-ads-banner-adm.php:1257
+msgid "\"Title\" can not be empty, please retry."
+msgstr "\"Titolo\" non può essere vuoto, per fare riprovare."
+
+#: class-beb-events-ads-banner-adm.php:1261
+msgid "\"Banner ID Name\" can not be empty, please retry."
+msgstr "\"Nome ID del Banner\" non può essere vuoto, per favore riprovare."
+
+#: class-beb-events-ads-banner-adm.php:1300
+#: class-beb-events-ads-banner-adm.php:1309
+msgid "Successfully saved !"
+msgstr "Salvato con successo !"
+
+#: class-beb-events-ads-banner-adm.php:1301
+#: class-beb-events-ads-banner-adm.php:1310
+msgid "go to"
+msgstr "vai a"
+
+#: class-beb-events-ads-banner-adm.php:1304
+#: class-beb-events-ads-banner-adm.php:1313
+#: class-beb-events-ads-banner-adm.php:1355
+#: class-beb-events-ads-banner-adm.php:1462
+msgid "Oops there was some error updating, please try again."
+msgstr "Oops c'è stato qualche errore nell'update, per favore riprovare."
+
+#: class-beb-events-ads-banner-adm.php:1329
+#: class-beb-events-ads-banner-adm.php:1339
+msgid "Successfully deleted !"
+msgstr "Cancellato con successo !"
+
+#: class-beb-events-ads-banner-adm.php:1330
+#: class-beb-events-ads-banner-adm.php:1340
+#: class-beb-events-ads-banner-adm.php:1420
+#: class-beb-events-ads-banner-adm.php:1429
+msgid "Create one"
+msgstr "Crea uno"
+
+#: class-beb-events-ads-banner-adm.php:1333
+#: class-beb-events-ads-banner-adm.php:1343
+msgid "Oops there was some error deleting, please try again."
+msgstr ""
+"Oops c'è stato qualche errore nella cancellazione, per favore riprovare."
+
+#: class-beb-events-ads-banner-adm.php:1352
+#: class-beb-events-ads-banner-adm.php:1459
+msgid "Successfully updated !"
+msgstr "Aggiornato con Successo !"
+
+#: class-beb-events-ads-banner-adm.php:1393
+msgid ""
+"Error - Colors must be in hexadecimal code; the value must be a number and "
+"the value \"opacity\" must be between 0 and 1 "
+msgstr ""
+"Errore - I colori devono essere in codice esadecimale; il valore deve essere "
+"un numero e il valore \"opacità\" deve essere compreso tra 0 e 1 "
+
+#: class-beb-events-ads-banner-adm.php:1395
+msgid "Error - The colors must be in hexadecimal code"
+msgstr "Errore - I colori devono essere in codice esadecimale"
+
+#: class-beb-events-ads-banner-adm.php:1397
+msgid "Error - The value must be a number"
+msgstr "Errore - Il valore deve essere un numero"
+
+#: class-beb-events-ads-banner-adm.php:1399
+msgid "Error - The value \"opacity\" must be between 0 and 1"
+msgstr "Errore - Il valore \"opacità\" deve essere compreso tra 0 e 1"
+
+#: class-beb-events-ads-banner-adm.php:1408
+msgid "Old settings are successfully deleted and..."
+msgstr "Le vecchie impostazioni sono state cancellate con successo e..."
+
+#: class-beb-events-ads-banner-adm.php:1411
+msgid ""
+"Oops there was some error on deleting old settings (01), please try again."
+msgstr ""
+"Oops c'è stato qualche errore nella cancellazione delle vecchie impostazioni "
+"(01), per favore riprovare."
+
+#: class-beb-events-ads-banner-adm.php:1419
+#: class-beb-events-ads-banner-adm.php:1428
+msgid "Settings are successfully updated !"
+msgstr "Le impostazioni sono state aggiornate con successo !"
+
+#: class-beb-events-ads-banner-adm.php:1423
+msgid "Oops there was some error updating (01), please try again."
+msgstr "Oops c'è qualche errore nell'aggiornamento (01), pre favore riprovare."
+
+#: class-beb-events-ads-banner-adm.php:1432
+msgid "Oops there was some error updating (02), please try again."
+msgstr "Oops c'è qualche errore nell'aggiornamento (02), pre favore riprovare."
+
+#: class-beb-events-ads-banner-adm.php:1451
+msgid "Successfully added !"
+msgstr "Salvato con successo !"
+
+#: class-beb-events-ads-banner-adm.php:1454
+msgid "Oops there was some error adding, please try again."
+msgstr "Oops c'è stato qualche errore nell'update, per favore riprovare."
+
+#: class-beb-events-ads-banner-op-com.php:114
+msgid "January"
+msgstr "Gennaio"
+
+#: class-beb-events-ads-banner-op-com.php:115
+msgid "February"
+msgstr "Febbraio"
+
+#: class-beb-events-ads-banner-op-com.php:116
+msgid "March"
+msgstr "Marzo"
+
+#: class-beb-events-ads-banner-op-com.php:117
+msgid "April"
+msgstr "Aprile"
+
+#: class-beb-events-ads-banner-op-com.php:118
+#: class-beb-events-ads-banner-op-com.php:132
+msgid "May"
+msgstr "Maggio"
+
+#: class-beb-events-ads-banner-op-com.php:119
+msgid "June"
+msgstr "Giugno"
+
+#: class-beb-events-ads-banner-op-com.php:120
+msgid "July"
+msgstr "Luglio"
+
+#: class-beb-events-ads-banner-op-com.php:121
+msgid "August"
+msgstr "Agosto"
+
+#: class-beb-events-ads-banner-op-com.php:122
+msgid "September"
+msgstr "Settembre"
+
+#: class-beb-events-ads-banner-op-com.php:123
+msgid "October"
+msgstr "Ottobre"
+
+#: class-beb-events-ads-banner-op-com.php:124
+msgid "November"
+msgstr "Novembre"
+
+#: class-beb-events-ads-banner-op-com.php:125
+msgid "December"
+msgstr "Dicembre"
+
+#: class-beb-events-ads-banner-op-com.php:128
+msgid "Jan"
+msgstr "Gen"
+
+#: class-beb-events-ads-banner-op-com.php:129
+msgid "Feb"
+msgstr "Feb"
+
+#: class-beb-events-ads-banner-op-com.php:130
+msgid "Mar"
+msgstr "Mar"
+
+#: class-beb-events-ads-banner-op-com.php:131
+msgid "Apr"
+msgstr "Apr"
+
+#: class-beb-events-ads-banner-op-com.php:133
+msgid "Jun"
+msgstr "Giu"
+
+#: class-beb-events-ads-banner-op-com.php:134
+msgid "Jul"
+msgstr "Lug"
+
+#: class-beb-events-ads-banner-op-com.php:135
+msgid "Aug"
+msgstr "Ago"
+
+#: class-beb-events-ads-banner-op-com.php:136
+msgid "Sep"
+msgstr "Set"
+
+#: class-beb-events-ads-banner-op-com.php:137
+msgid "Oct"
+msgstr "Ott"
+
+#: class-beb-events-ads-banner-op-com.php:138
+msgid "Nov"
+msgstr "Nov"
+
+#: class-beb-events-ads-banner-op-com.php:139
+msgid "Dec"
+msgstr "Dic"
+
+#~ msgid "Add more"
+#~ msgstr "Aggiungi più"
+
+#~ msgid "Required - Unique Key ID</strong> - Max "
+#~ msgstr "Obbligatorio - Chiave Unica ID</strong> - Max"
+
+#~ msgid "(<strong>Optional</strong> - This will be the left link title - Max "
+#~ msgstr "(<strong>Opzionale</strong> - Titolo del link sinistro - Max"
+
+#~ msgid "(<strong>Optional</strong> - Left link)"
+#~ msgstr "(<strong>Opzionale</strong> - Link sinistro)"
+
+#~ msgid "(<strong>Optional</strong> - Right link)"
+#~ msgstr "(<strong>Opzionale</strong> - Link destro)"
+
+#~ msgid "(<strong>Optional - RECOMMENDED height 120 px</strong>)"
+#~ msgstr ""
+#~ "(<strong>Opzionale - RACCOMANDAZIONE altezza massima 120px</strong>)"
+
+#~ msgid "Date color:"
+#~ msgstr "Colore data:"
+
+#~ msgid "Remove"
+#~ msgstr "Elimina"
+
+#~ msgid "Activate:"
+#~ msgstr "Attivazione:"
+
+#~ msgid "On"
+#~ msgstr "On"
+
+#~ msgid "Off"
+#~ msgstr "Off"
+
+#~ msgid "(Show banner)"
+#~ msgstr "(mostra il banner)"
+
+#~ msgid "Date:"
+#~ msgstr "Data:"
+
+#~ msgid "Image:"
+#~ msgstr "Immagine:"
+
+#~ msgid "(<strong>Optional</strong> - Insert an image)"
+#~ msgstr "(<strong>Opzionale</strong> - Inserire un'immgine)"
+
+#~ msgid "Oops there was some error updating, please try again. "
+#~ msgstr "Oops c'è stato qualche errore nell'update, per favore riprovare."
+
+#~ msgid "Oops there was some error in updating (01), please try again."
+#~ msgstr ""
+#~ "Oops c'è qualche errore nell'aggiornamento (01), pre favore riprovare."
+
+#~ msgid "Oops there was some error in updating (02), please try again."
+#~ msgstr ""
+#~ "Oops c'è qualche errore nell'aggiornamento (02), per favore riprovare."
+
+#~ msgid "(Time of banner's refreshing - in seconds)"
+#~ msgstr "(Tempo tra un Banner e l'altro)"
+
+#~ msgid "Banner's colors"
+#~ msgstr "Colori del Banner"
+
+#~ msgid "Left's link:"
+#~ msgstr "Link di Sinistra:"
+
+#~ msgid "Right's link:"
+#~ msgstr "Link di Destra:"
+
+#~ msgid "Date of Event - Day:"
+#~ msgstr "Data dell'evento - Giorno:"
+
+#~ msgid "Date of Event - Month:"
+#~ msgstr "Data dell'evento - Mese:"
+
+#~ msgid "Oops there was some error on updating, please try again."
+#~ msgstr ""
+#~ "Oops ci deve essere stato qualche errore nell'aggiornamento, per favre "
+#~ "riprovare."
+
+#~ msgid "Oops there was some error in deleting, please try again."
+#~ msgstr ""
+#~ "Oops c'è stato qualche errore nella cancellazione, per favore riprovare."
+
+#~ msgid "Oops there was some error in updating, please try again."
+#~ msgstr ""
+#~ "Oops c'è stato qualche errore nell'aggiornamento, per favore riprovare."
+
+#~ msgid ""
+#~ "Error - The colors must be in hexadecimal code; the value must be a "
+#~ "number and\n"
+#~ "\t                the value \"opacity\" must be between 0 and 1"
+#~ msgstr ""
+#~ "Errore - I colori devono essere in codice esadecimale; il valore deve "
+#~ "essere un numero e\n"
+#~ "\t                il valore \"opacità\" deve essere compreso tra 0 e 1"
+
+#~ msgid "Sets the Banner"
+#~ msgstr "Imposta il Banner"
+
+#~ msgid "Settings Banner"
+#~ msgstr "Impostazioni Banner"
+
+#~ msgid "unfortunately for now you can create a single banner for time"
+#~ msgstr ""
+#~ "sfortunatamente al momento è possibile creare un solo banner per volta"
+
+#~ msgid "Display:"
+#~ msgstr "Visualizza"
+
+#~ msgid "(Show the banner (On) or not (Off))"
+#~ msgstr "(Mostra il banner (On) o no (Off))"
+
+#~ msgid "Don't open never"
+#~ msgstr "Non aprire mai"
+
+#~ msgid "Banner Name ID"
+#~ msgstr "Nome Banner ID"
+
+#~ msgid ""
+#~ "(<strong>Optional</strong> - The title will be appare for the left link - "
+#~ "Max "
+#~ msgstr ""
+#~ "(<strong>Opzionale</strong> - E' il Titolo del link che apparirà nel "
+#~ "Banner a Sinistra - Max"
+
+#~ msgid "(<strong>Optional</strong> - The left link)"
+#~ msgstr "(<strong>Opzionale</strong> - Link Sinistro)"
+
+#~ msgid ""
+#~ "(<strong>Optional</strong> - The title will be appare for the right link "
+#~ "- Max "
+#~ msgstr ""
+#~ "(<strong>Opzionale</strong> - Il Titolo che apparirà nel Banner a Destra "
+#~ "- Max"
+
+#~ msgid "(<strong>Optional</strong> - The right link)"
+#~ msgstr "(<strong>Opzionale</strong> - Link Destro)"
+
+#~ msgid ""
+#~ "In the Pro Version is possible to able this feature and create multiple "
+#~ "banners"
+#~ msgstr ""
+#~ "Nella Versione Pro è possibile abilitare queste funzioni e creare banner "
+#~ "multipli"
+
+#~ msgid "Display it on:"
+#~ msgstr "Visualizza il Banner il:"
+
+#~ msgid "Remove it on:"
+#~ msgstr "Rimuovi il Banner il:"
+
+#~ msgid "\"Title\" and \"Banner Name ID\" can not be empty, please retry."
+#~ msgstr ""
+#~ "\"Titolo\" e \"Nome Banner ID\" non possono essere vuoti, per favore "
+#~ "riprovare."
+
+#~ msgid "\"Banner Name ID\" can not be empty, please retry."
+#~ msgstr "\"Nome Banner ID\" non può essere vuoto, per favore riprovare."
+
+#~ msgid "Create New Banner Advertising"
+#~ msgstr "Crea nuovo Banner"
+
+#~ msgid ""
+#~ "Successfully saved ! - <a href=\"?page=beb-cv-banner-admin\">go to</a>"
+#~ msgstr ""
+#~ "Salvato con successo ! - <a href=\"?page=beb-cv-banner-admin\">vai a</a>"
+
+#~ msgid ""
+#~ "Successfully deleted ! - <a href=\"?page=beb-cv-admin-add-banner\">Create "
+#~ "one</a>"
+#~ msgstr ""
+#~ "Cancellato con Successo ! - <a href=\"?page=beb-cv-admin-add-banner"
+#~ "\">Creane uno</a>"
+
+#~ msgid ""
+#~ "Settings are successfully updated ! - <a href=\"?page=beb-cv-admin-add-"
+#~ "banner\">Create one</a>"
+#~ msgstr ""
+#~ "Le impostazioni sono state aggiornate con successo ! - <a href=\"?"
+#~ "page=beb-cv-admin-add-banner\">Creane uno</a>"
+
+#~ msgid "Banner Name ID<span style=\"color: #ff0000;\">*</span> :"
+#~ msgstr "Nome Banner ID<span style=\"color: #ff0000;\">*</span> :"
+
+#~ msgid "Sorting:"
+#~ msgstr "Priorità:"
+
+#~ msgid "Title<span style=\"color: #ff0000;\">*</span> :"
+#~ msgstr "Titolo<span style=\"color: #ff0000;\">*</span> :"
+
+#~ msgid "(<strong>Optional</strong> - Show Banner in the order)"
+#~ msgstr "(<strong>Opzionale</strong> - Visualizza il Banner nell\\'ordine)"
+
+#~ msgid "Left link Title:"
+#~ msgstr "Titolo del link di Sinistra:"
+
+#~ msgid "Left link URL:"
+#~ msgstr "Link di Sinistra URL:"
+
+#~ msgid "Right link Title:"
+#~ msgstr "Titolo del link di Destra:"
+
+#~ msgid "Right link URL:"
+#~ msgstr "Link di Destra URL:"
+
+#~ msgid "Vertical Alignment:"
+#~ msgstr "Posizionamento Veritcale:"
+
+#~ msgid "Horizontal Alignment:"
+#~ msgstr "Posizionamento Orizzontale:"
+
+#~ msgid "Label shape of the Banner:"
+#~ msgstr "Forma dell'etichetta del Banner:"
+
+#~ msgid "Seconds to change the Banner:"
+#~ msgstr "Secondi per cambiare il Banner:"
+
+#~ msgid "(Vertical position of the Banner)"
+#~ msgstr "(Posizione verticale del Banner)"
+
+#~ msgid "(Horizontal position of the Banner)"
+#~ msgstr "(Posizione orizzontale del Banner)"
+
+#~ msgid "(Label shape of the Banner)"
+#~ msgstr "(Forma dell'etichetta del Banner)"
+
+#~ msgid "(If there are more banners specify how often they must be changed)"
+#~ msgstr ""
+#~ "(Se ci sono più Banner specificae con quale frequenza vanno cambiati)"
+
+#~ msgid "Please <a href=\"%1$s\">upgrade WordPress</a> to a current version."
+#~ msgstr ""
+#~ "Per favore <a href=\"%1$s\">aggiornare WordPress</a> alla versione più "
+#~ "recente."
+
+#~ msgid "<h1>Insert New Event - "
+#~ msgstr "<h1>Inserisci un nuovo Evento - "
+
+#~ msgid "Settings Banner:"
+#~ msgstr "Impostazioni Banner:"
+
+#~ msgid "Date of Event:"
+#~ msgstr "Data Evento:"
+
+#~ msgid "Enter the Event's descrition:"
+#~ msgstr "Inserire la descrizione dell'evento:"
+
+#~ msgid "customize"
+#~ msgstr "personalizza"
+
+#~ msgid "The default options can be set in \"Settings BebCV\""
+#~ msgstr "Le impostazioni di default si possono trovare in \"Settings BebCV\""
+
+#~ msgid "1 Color"
+#~ msgstr "1 Colore"
+
+#~ msgid "2 Colors"
+#~ msgstr "2 Colori"
+
+#~ msgid "Banner's background color"
+#~ msgstr "Colore dello sfondo del Banner"
+
+#~ msgid "To display the Banner"
+#~ msgstr "Per visualizzare il Banner"
+
+#~ msgid "<h1>Configure the display settings of the Banner</h1>"
+#~ msgstr "<h1>Configura le impostazioni di visualizzazione del Banner</h1>"
+
+#~ msgid "Background Color:"
+#~ msgstr "Colore dello Sfondo:"
+
+#~ msgid "Help"
+#~ msgstr "Aiuto"
+
+#~ msgid "Get Pro V."
+#~ msgstr "Get Pro V."
+
+#~ msgid "Get Pro Version"
+#~ msgstr "Prendi la Versione Pro"
+
+#~ msgid "Interval between a banner and the other:"
+#~ msgstr "Intervallo tra un banner e l'altro:"
+
+#~ msgid "(in second)"
+#~ msgstr "(in secondi)"
+
+#~ msgid "Link 1 color:"
+#~ msgstr "Colore link 1:"
+
+#~ msgid "Link 2 color:"
+#~ msgstr "Colore link 2:"
+
+#~ msgid "Dal link \"Add Banner\""
+#~ msgstr "Dal link \"Aggiungi Banner\""
+
+#~ msgid "<h1>Insert New Event"
+#~ msgstr "<h1>Inserire un nuovo Evento"
+
+#~ msgid "Open the Banner:"
+#~ msgstr "Aprire il Banner:"
+
+#~ msgid " On "
+#~ msgstr "On"
+
+#~ msgid " Off "
+#~ msgstr "Off"
+
+#~ msgid ""
+#~ "Error - The colors must be in hexadecimal code and the value must be a "
+#~ "number"
+#~ msgstr ""
+#~ "Errore - I colori devono essere in codice esadecimale e l'opacità deve "
+#~ "essere un numero"
+
+#~ msgid "Banner Name ID:"
+#~ msgstr "Nome Banner ID:"
+
+#~ msgid "(<strong>Required</strong> - Max <strong>nnn</strong> characters)"
+#~ msgstr ""
+#~ "(<strong>Obbligatorio</strong> - Max <strong>nnn</strong> caratteri)"
+
+#~ msgid "(<strong>Optional</strong> - Max <strong>nnn</strong> characters)"
+#~ msgstr "(<strong>Opzionale</strong> - Max <strong>nnn</strong> caratteri)"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "(<strong>Optional</strong> - Max nnn characters)"
+#~ msgstr "(<strong>Opzionale</strong> - Max nnn caratteri)"
+
+#~ msgid "\" Colors"
+#~ msgstr "\" Colori"
+
+#~ msgid "Form Label:"
+#~ msgstr "Etichetta del Banner:"
+
+#~ msgid "(<strong>Optional</strong> - Publication date of the Banner)"
+#~ msgstr "(<strong>Opzionale</strong> - Quando pubblicare il Banner)"
+
+#~ msgid "(<strong>Optional</strong> - Date of removal of the Banner)"
+#~ msgstr "(<strong>Optional</strong> - Date of removal of the Banner)"

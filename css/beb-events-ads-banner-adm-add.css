@@ -1,0 +1,204 @@
+@media screen and (min-width: 300px) and (max-width: 500px) {
+	.beb-eab-contenitore-admin.beb-eab-imp-add {
+		left: 0;
+		padding: 3%;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add input {
+		min-height: 30px;
+		width: 100%;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add input[type="radio"] {
+		min-height: 30px;
+		width: auto;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add .fmt-eab-riga {
+		margin: 1% 0;
+		width: 100%;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add .fmt-eab-riga-sx {
+		line-height: 30px;
+		max-width: 100% !important;
+	    width: 100%;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add .fmt-eab-riga-c {
+		width: 100%;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add .fmt-eab-riga-dx {
+		line-height: 30px;
+		width: 100%;
+	}
+	/*
+	.beb-eab-contenitore-admin.beb-eab-imp-add form > fieldset > div .fmt-eab-riga-sx {
+		margin-bottom: 6%;
+	}
+	*/
+	.beb-eab-contenitore-admin.beb-eab-imp-add form > fieldset > div .fmt-eab-riga-dx {
+		height: auto;
+    	line-height: 20px;
+	}
+}
+
+@media screen and (min-width: 500px) {
+	.beb-eab-contenitore-admin.beb-eab-imp-add {
+	    min-width: 300px;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add .fmt-eab-riga {
+		margin: 1% 0;
+		width: 100%;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add .fmt-eab-riga-sx {
+		line-height: 30px;
+		min-width: 160px;
+	    width: auto;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add .fmt-eab-riga-c {
+		width: auto;
+		min-width: 200px;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add .fmt-eab-riga-c input {
+		float: left;
+		min-height: 30px;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add .fmt-eab-riga-dx {
+		line-height: 30px;
+		width: auto;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add form > fieldset > div.fmt-eab-riga {
+		margin: 1% 0 3%;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add .fmt-eab-riga-dx.eccezione1 {
+		height: 50px;
+		line-height: 65px;
+	}
+
+	.beb-eab-contenitore-admin.beb-eab-imp-add .fmt-eab-riga-dx.eccezione3 {
+		height: 50px;
+		line-height: 86px;
+	}
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------- */
+
+.beb-eab-contenitore-admin.beb-eab-imp-add > h1 {
+	line-height: 26px;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-add > h4 {
+	color: #ff0000;
+	text-align: center;
+	width: 100%;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-add form>fieldset {
+	margin-top: 25px;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-add fieldset {
+	border: 1px groove black;
+	margin-bottom: 25px;
+    padding: 2% 3%;
+    position: relative;
+    width: 94%;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-add input[type="radio"] {
+	margin-left: 15px;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-add textarea  {
+    left: 2%;
+	min-height: 70px;
+    position: relative;
+    width: 96%;
+}
+
+
+.beb-eab-add-banner-sugg.eccezione2 {
+	color: #0000ff;
+    float: left;
+    font-size: 12px;
+    line-height: 30px;
+    margin: 0 0 0 15px;
+    position: relative;
+    width: auto;
+}
+
+.beb-eab-add-banner-numeri {
+	font-weight: bold;
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-add .fmt-eab-riga.nascondi-riga {
+	display: none;
+}
+/* --------------------------------------------------------------------------------------------------------------------------- */
+
+@media screen and (min-width: 300px) and (max-width: 500px) {
+	.beb-eab-contenitore-admin.beb-eab-imp-add.vPRO .fmt-eab-riga {
+	    margin-bottom: 30px;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add.vPRO .fmt-eab-riga-sx {
+	    width: 100%;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add.vPRO .fmt-eab-riga-c {
+		background-color: #ffffff;
+	    height: 40px;
+	    left: 23%;
+	    padding: 30px 2% 2%;
+	    text-align: center;
+	    vertical-align: middle;
+	    width: 50%;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add.vPRO .fmt-eab-riga-dx {
+		text-align: center;
+    	width: 100%;
+	}
+}
+
+@media screen and (min-width: 500px) {
+	.beb-eab-contenitore-admin.beb-eab-imp-add.vPRO .fmt-eab-riga-sx {
+		line-height: 94px;
+	    min-width: auto;
+	    padding-right: 25px;
+	    text-align: right;
+	    width: calc(30% - 25px);
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add.vPRO .fmt-eab-riga-c {
+		background-color: #ffffff;
+	    height: 40px;
+	    min-width: auto;
+	    padding: 39px 2% 2%;
+	    text-align: center;
+	    vertical-align: middle;
+	    width: 26%;
+	}
+	
+	.beb-eab-contenitore-admin.beb-eab-imp-add.vPRO .fmt-eab-riga-dx {
+		line-height: 94px;
+	    padding-left: 30px;
+	    width: calc(40% - 30px);
+	}
+}
+
+.beb-eab-contenitore-admin.beb-eab-imp-add.vPRO {
+	margin-bottom: 200px;
+}
